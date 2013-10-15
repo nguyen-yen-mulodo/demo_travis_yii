@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="UserTest" file="/Applications/MAMP/htdocs/demo_yii_unittest/protected/tests/unit/UserTest.php" tests="1" assertions="0" failures="0" errors="0" time="0.289826">
+    <testcase name="testSaveModel" class="UserTest" file="/Applications/MAMP/htdocs/demo_yii_unittest/protected/tests/unit/UserTest.php" line="22" assertions="0" time="0.289826"/>
+  </testsuite>
+</testsuites>
